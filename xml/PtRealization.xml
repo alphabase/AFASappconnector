@@ -1,0 +1,13 @@
+<PtRealization xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Element>
+		<Fields Action="insert">
+			<DaTi>2015-06-21</DaTi>
+			<VaIt>1</VaIt>
+			<ItCd>PL</ItCd>
+			<Qu>1</Qu>
+			<EmId>02663</EmId>
+			<PrId>000001</PrId>
+			<StId>N</StId>
+		</Fields>
+	</Element>
+</PtRealization>
