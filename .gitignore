@@ -2,3 +2,4 @@
 /xml/*
 /.buildpath
 /.project
+/config.ini
